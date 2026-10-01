@@ -6,6 +6,13 @@
 
 ---
 
+## LABORATORIOS PASADOS:
+
+- Laboratorio backend: https://github.com/SrDark04/RD_Lab_P2_BluePrints_Java21_API_Security_JWT_RC
+- Laboratorio frontend: https://github.com/SrDark04/RD_Lab_P3_BluePrints_React_UI_RL
+
+---
+
 ## CONTENIDO:
 1. [Resumen Ejecutivo y Objetivos](#1-resumen-ejecutivo-y-objetivos)
 2. [Arquitectura General del Sistema y Flujo de Comunicación](#2-arquitectura-general-del-sistema-y-flujo-de-comunicación)
