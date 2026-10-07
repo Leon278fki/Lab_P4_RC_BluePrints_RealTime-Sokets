@@ -589,7 +589,7 @@ PASO 6: CIERRE DEL CICLO (ELIMINACIÓN)
 De acuerdo con las directrices del laboratorio, la demostración de la solución se encuentra respaldada mediante el siguiente registro audiovisual de sustentación (duración máxima de 90 segundos), donde se evidencia la interacción multi-pestaña en vivo y las operaciones del ciclo CRUD:
 
 > 🎥 **Enlace del Video de Demostración:**  
-> **URL:** `[PENDIENTE: Inserte aquí el enlace de YouTube / Loom / Drive]`  
+> **URL:** `https://youtu.be/j_14GhQmRrk?si=6_zRRmfC0evSwiuW`  
 > **Duración:** ≤ 90 segundos  
 > **Aspectos demostrados:**
 > - Login con autenticación JWT y manejo de sesiones.
